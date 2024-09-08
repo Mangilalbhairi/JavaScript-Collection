@@ -1,4 +1,4 @@
-// DataTypes in JavaScript
+// Primitive Data Types in JavaScript
 /* 1. Number : Floating point numbers -> Used for decimal and integers (let age = 25)
    2. String : Sequence of characters -> Used for text (let firstName = "jonas")
    3. Boolean : Logical type that only be true or flase -> Used for taking decision (let isLogedIn = true)
