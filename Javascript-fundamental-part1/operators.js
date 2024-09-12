@@ -26,3 +26,5 @@ console.log("value of x:",x);
 // 3. Comparision operators
 console.log(ageJonas > ageSarah)// > , <, >=, <= 
 console.log(ageSarah >= 18);
+
+const isFullAge = ageSarah >= 18;
